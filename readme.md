@@ -392,7 +392,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ### IRC Clients
 
-- [HexChat](https://hexchat.github.io/) - IRC client based on XChat. ![Open Source][oss]
 - [Irssi](https://irssi.org/) - Your text mode chatting application since 1999. ![Open Source][oss]
 - [KVIrc](http://kvirc.net/) - QT IRC Client. ![Open Source][oss]
 - [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS. ![Open Source][oss]
